@@ -19,6 +19,7 @@ const Sidebar = () => {
 
   const baseItems = [
     {
+      
       path: "/dashboard",
       icon: <HomeIcon size={20} />,
       label: "Inicio",
