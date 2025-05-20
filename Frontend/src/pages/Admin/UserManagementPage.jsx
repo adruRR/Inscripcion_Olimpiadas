@@ -49,7 +49,9 @@ const UserManagementPage = () => {
             className="bg-[#C8B7A6] text-white px-4 py-2 rounded-md hover:bg-opacity-90 transition-colors flex items-center"
           >
             <PlusIcon size={18} className="mr-2" />
-            Nuevo Usuario
+
+            Nuevo Usuario 
+            
           </button>
         </div>
 
