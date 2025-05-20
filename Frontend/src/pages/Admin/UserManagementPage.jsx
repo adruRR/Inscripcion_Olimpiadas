@@ -164,7 +164,9 @@ const UserManagementPage = () => {
                   onClick={() => setShowModal(false)}
                   className="px-4 py-2 border border-[#D9D9D9] rounded-md"
                 >
+                  
                   Cancelar
+
                 </button>
                 <button
                   type="submit"
